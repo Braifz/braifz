@@ -2,7 +2,7 @@
 
 ## I'm Braian a Frontend developer.
 
-### I am having fun making stuff with react and three js 😁
+### I am having fun making stuff with Javascript
 <!--
 **Braifz/braifz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
