@@ -1,9 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
-## I'm Braian a Frontend developer.
+### I'm Braian a Frontend developer.
 
-# I am having fun learning and making stuff with Javascript
-# I like doing acrobatics and enjoy time in nature
+I am having fun learning and making stuff with Javascript
+I like doing acrobatics and enjoy time in nature
 <!--
 **Braifz/braifz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
