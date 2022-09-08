@@ -2,7 +2,7 @@
 
 ### I'm Braian a Frontend developer.
 
-I am having fun learning and making stuff with Javascript,
+I'm having fun learning and making stuff with Javascript,
 I like doing acrobatics and enjoy time in nature 😄🌱
 
 Actually I’m learning about solidity and web3 techs.
