@@ -5,7 +5,7 @@
 I'm having fun learning and making stuff with Javascript,
 I like doing acrobatics and enjoy time in nature 😄🌱
 
-Actually I’m learning about solidity and web3 techs.
+Actually I’m learning about solidity, blockchain and web3 techs.
 
 <!--
 **Braifz/braifz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
