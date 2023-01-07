@@ -5,7 +5,7 @@
 I'm having fun learning and making stuff with Javascript,
 I like doing acrobatics and enjoy time in nature 😄🌱
 
-Actually I’m learning about solidity, blockchain and web3 techs. mechanical_arm
+Actually I’m learning about solidity, blockchain and web3 techs. 🦾
 
 Sometimes I write, if you want read it, here is the link to my blog: https://braifz.hashnode.dev/  
 
