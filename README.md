@@ -5,7 +5,7 @@
 I'm having fun learning and making stuff with Javascript,
 I like doing acrobatics, read about non-fiction and enjoy time in nature 😄🌱
 
-Currenly I’m learning about solidity, Ethereum and web3 techs. 🦾
+Currently I’m learning about solidity, Ethereum and web3 techs. 🦾
 
 Sometimes I write, if you want read it, here is the link to my blog: https://braifz.hashnode.dev/  
 
