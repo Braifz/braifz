@@ -7,7 +7,7 @@ I like doing acrobatics, read about non-fiction and enjoy time in nature 😄�
 
 Currently I’m learning about solidity, Ethereum and web3 techs. 🦾
 
-Sometimes I write, if you want read it, here is the link to my blog: https://braifz.hashnode.dev/  
+Sometimes I write, here is the link to my blog: https://braifz.hashnode.dev/  
 
 <!--
 **Braifz/braifz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
