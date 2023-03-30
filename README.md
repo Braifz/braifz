@@ -13,7 +13,7 @@ My Welook profile -> https://welook.io/braifz.lens
 
 Sometimes I write, here is the link to my blog: https://braifz.hashnode.dev/  
 
-My Stack -> React.js - Next.js - Solidity - Ethers.js
+React.js - Next.js - Node - Solidity - Ethers.js
 
 <!--
 **Braifz/braifz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
