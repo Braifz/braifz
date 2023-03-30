@@ -5,7 +5,7 @@
 I'm having fun learning and making stuff with Javascript,
 I like doing acrobatics, read about non-fiction and enjoy time in nature 😄🌱
 
-Currently I’m learning about Solidity, Ethereum, EVM and web3 ecosystem. 🦾
+Currently I’m learning about Solidity, Ethereum and web3 ecosystem. 🦾
 
 My Lens profile -> https://www.lensfrens.xyz/braifz.lens
 
