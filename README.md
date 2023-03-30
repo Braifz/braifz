@@ -7,10 +7,6 @@ I like doing acrobatics, read about non-fiction and enjoy time in nature 😄�
 
 Currently I’m learning about Solidity, Ethereum and web3 ecosystem. 🦾
 
-My Lens profile -> https://www.lensfrens.xyz/braifz.lens
-
-My Welook profile -> https://welook.io/braifz.lens
-
 Sometimes I write, here is the link to my blog: https://braifz.hashnode.dev/  
 
 React.js - Next.js - Node - Solidity - Ethers.js
