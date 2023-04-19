@@ -5,7 +5,7 @@
 I'm having fun learning and making stuff with Javascript,
 I like doing acrobatics, read about non-fiction and enjoy time in nature 😄🌱
 
-Currently I’m learning about Solidity, Ethereum, Blockchains EVM compatible and Web3 ecosystem. 🦾
+Currently I’m learning about Solidity, Blockchains EVM compatible and Web3 ecosystem. 🦾
 
 Sometimes I write, here is the link to my blog: https://braifz.hashnode.dev/  
 
