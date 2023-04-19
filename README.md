@@ -2,7 +2,8 @@
 
 ### I'm Braian a Frontend Developer.
 
-I'm having fun learning and making stuff with Javascript,
+I'm having fun learning and making stuff with Javascript.
+
 Books - Acrobatics - Web3 😄🌱
 
 Currently I’m learning about Solidity, Blockchains EVM compatible and Web3 ecosystem. 🦾
