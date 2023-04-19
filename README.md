@@ -13,8 +13,6 @@ Sometimes I write, here is the link to my blog: https://braifz.hashnode.dev/
 Next.js - Node - Solidity - Ethers.js - TypeScript
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=braifz"/>
-
 <!--
 **Braifz/braifz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
