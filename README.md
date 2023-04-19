@@ -10,7 +10,7 @@ Currently I’m learning about Solidity, Blockchains EVM compatible and Web3 eco
 
 Sometimes I write, here is the link to my blog: https://braifz.hashnode.dev/  
 
-React.js - Next.js - Node - Solidity - Ethers.js
+Next.js - Node - Solidity - Ethers.js - TypeScript
 
 <!--
 **Braifz/braifz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
