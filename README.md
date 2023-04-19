@@ -12,7 +12,6 @@ Sometimes I write, here is the link to my blog: https://braifz.hashnode.dev/
 
 Next.js - Node - Solidity - Ethers.js - TypeScript
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braifz)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Braifz/braifz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
