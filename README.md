@@ -4,8 +4,6 @@
 
 I'm having fun learning and making stuff with Javascript.
 
-Books - Acrobatics - Web3 😄🌱
-
 Currently I’m learning about Solidity, Blockchains EVM compatible and Web3 ecosystem. 🦾
 
 Sometimes I write, here is the link to my blog: https://braifz.hashnode.dev/  
