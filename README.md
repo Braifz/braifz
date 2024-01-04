@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-### I'm Braian a Frontend Developer.
+### I'm Braian a Full Stack Developer.
 
-I'm having fun learning and making stuff with Javascript.
+I enjoy learning and building things with javascript, especially react and next js.
 
-Currently I’m learning about Solidity, Rust, Blockchains and Web3 ecosystem. 🦾
+Currently I'm learning about Rust, Solidity, Blockchain and web3 technologies. 🦾
 
-Sometimes I write, here is the link to my blog: https://braifz.hashnode.dev/  
+Sometimes I write, if you want to read it, here is the link to my blog: https://braifz.hashnode.dev/ 
+
+Github: https://github.com/Braifz
 
 Next.js - Node - Solidity - Ethers.js - TypeScript
 
