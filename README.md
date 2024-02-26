@@ -8,8 +8,6 @@ Currently I'm learning about Rust, Solidity, Blockchain and web3 technologies. ð
 
 Sometimes I write, if you want to read it, here is the link to my blog: https://braifz.hashnode.dev/ 
 
-Github: https://github.com/Braifz
-
 Next.js - Node - Solidity - Ethers.js - TypeScript
 
 <!--
