@@ -4,7 +4,7 @@
 
 I enjoy learning and building things with javascript, especially react and next js.
 
-Currently I'm learning about Rust, Solidity, Blockchain and web3 technologies. 🦾
+Currently I'm learning about Blockchain and web3 technologies. 🦾
 
 Sometimes I write, if you want to read it, here is the link to my blog: https://braifz.hashnode.dev/ 
 
