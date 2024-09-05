@@ -2,7 +2,7 @@
 
 ### I'm Braian a Frontend Developer.
 
-I enjoy learning and building things with javascript, especially react and next js.
+I enjoy learning and building things with Typescript, especially React and Next js.
 
 Currently I'm learning about Blockchain and web3 technologies. 🦾
 
