@@ -1,26 +1,11 @@
 ## Hi there 👋
 
-### I'm Braian a Frontend Developer.
+### I'm Braian — Frontend Developer
 
-I enjoy learning and building things with Typescript, especially React and Next js.
+I love building with **TypeScript**, especially using **React** and **Next.js**.  
+Currently diving into **Blockchain**, **Web3**, and occasionally tinkering with **AI and Agents**. 🧠⚡
 
-Currently I'm learning about Blockchain and web3 technologies. 🦾
+I also enjoy writing about what I'm learning — check out my blog:  
+📚 [braifz.hashnode.dev](https://braifz.hashnode.dev/)
 
-Sometimes I write, if you want to read it, here is the link to my blog: https://braifz.hashnode.dev/ 
-
-<!--
-Next.js - Node - Solidity - Ethers.js - TypeScript
-
-**Braifz/braifz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
