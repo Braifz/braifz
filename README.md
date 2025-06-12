@@ -7,5 +7,3 @@ Currently diving into **Blockchain**, **Web3**, and occasionally tinkering with 
 
 I also enjoy writing about what I'm learning — check out my blog:  
 📚 [braifz.hashnode.dev](https://braifz.hashnode.dev/)
-
----
